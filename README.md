@@ -1,5 +1,7 @@
 # Game of Life - Rust
 
+https://github.com/boechat107/game-of-life-rust/workflows/Rust/badge.svg
+
 A simple implementation of Conway's Game of Life in Rust.
 
 ## Installation
