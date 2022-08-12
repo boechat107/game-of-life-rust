@@ -4,6 +4,8 @@
 
 A simple implementation of Conway's Game of Life in Rust.
 
+[![asciicast](https://asciinema.org/a/514433.svg)](https://asciinema.org/a/514433)
+
 ## Installation
 
 Compile and run with [Cargo](https://doc.rust-lang.org/cargo/).
