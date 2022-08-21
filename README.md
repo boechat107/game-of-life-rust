@@ -12,7 +12,7 @@ Compile and run with [Cargo](https://doc.rust-lang.org/cargo/).
 
 ## Usage
 
-The program runs in a infinite loop.
+The program runs in an infinite loop.
 
 ``` bash
 cargo run < ./seeds/PulsarSeed.txt
@@ -25,4 +25,4 @@ Stop it with `Ctrl-C`.
 * [Conway's Game of Life - Wikipedia](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 * amhndu's [implementation in Haskell](https://github.com/amhndu/life.hs)
    * Elegant solution.
-   * Contains the original seed files of this repository.
+   * It contains the original seed files of this repository.
